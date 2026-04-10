@@ -1,0 +1,8 @@
+{
+  "name": "tsv-opt",
+  "description": "TSV最適化のための熱解析エンジンの再構築と機能拡張",
+  "status": "requirements",
+  "language": "ja",
+  "version": "1.0.0",
+  "created_at": "2026-04-10T00:00:00Z"
+}
